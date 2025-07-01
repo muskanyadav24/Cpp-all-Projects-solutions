@@ -1,4 +1,4 @@
-// Total number of digits. using do-while-loop.
+//P-2.2 Total number of digits. using do-while-loop.
 
 #include<iostream>
 using namespace std;
@@ -17,3 +17,8 @@ int main(){
 
     return 0;
 }
+
+// OUTPUT :- 
+
+// Enter the number :- 754
+// Total number of digits :- 3

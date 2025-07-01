@@ -22,3 +22,10 @@ int main(){
 
     return 0;
 }
+
+// OUTPUT :- 
+
+// Enter the number :- 384
+// First digit :- 3
+// Last digit :- 4
+// The sum of first and last digit :- 7

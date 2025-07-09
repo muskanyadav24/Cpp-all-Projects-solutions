@@ -25,3 +25,15 @@ int main(){
 	}
 	return 0;
 }
+
+// OUTPUT :- 
+
+// Enter the array size :- 5
+// Array [0] = 1
+// Array [1] = -2
+// Array [2] = 34
+// Array [3] = -67
+// Array [4] = 21
+
+// Negative element from an array :-  -2 , -67 ,
+
